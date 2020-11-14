@@ -1,1 +1,3 @@
 # .github
+
+- [Support](SUPPORT.md)
