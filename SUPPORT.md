@@ -1,1 +1,1 @@
-Send us an email at <hi@candyblue.agency>.
+Send me an email at <lukas@lukas-becker.eu>.
