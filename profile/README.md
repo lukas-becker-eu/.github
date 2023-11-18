@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Lukas 👋
 
-I'm Lukas, a digital marketing consultant from Kassel. Let's connect on [LinkedIn](https://www.linkedin.com/in/l-becker/).
+A digital marketing consultant from Kassel. Let's connect on [LinkedIn](https://www.linkedin.com/in/l-becker/).
 
 <!--
 
